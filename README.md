@@ -122,6 +122,13 @@ var out = cartesianPower( x, 3 );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/array-cartesian-product`][@stdlib/array/cartesian-product]</span><span class="delimiter">: </span><span class="description">return the Cartesian product.</span>
+-   <span class="package-name">[`@stdlib/array-cartesian-square`][@stdlib/array/cartesian-square]</span><span class="delimiter">: </span><span class="description">return the Cartesian square.</span>
+
 </section>
 
 <!-- /.related -->
@@ -199,6 +206,14 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/array-cartesian-power/main/LICENSE
 
 [cartesian-product]: https://en.wikipedia.org/wiki/Cartesian_product
+
+<!-- <related-links> -->
+
+[@stdlib/array/cartesian-product]: https://github.com/stdlib-js/array-cartesian-product
+
+[@stdlib/array/cartesian-square]: https://github.com/stdlib-js/array-cartesian-square
+
+<!-- </related-links> -->
 
 </section>
 
