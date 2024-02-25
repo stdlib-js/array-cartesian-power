@@ -1,4 +1,0 @@
-// Copyright (c) 2024 The Stdlib Authors. License is Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0
-/// <reference types="./index.d.ts" />
-import e from"https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-collection@v0.2.0-esm/index.mjs";import{isPrimitive as t}from"https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-nonnegative-integer@v0.2.0-esm/index.mjs";import r from"https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cartesian-power@v0.1.0-esm/index.mjs";import s from"https://cdn.jsdelivr.net/gh/stdlib-js/string-format@v0.1.1-esm/index.mjs";function n(n,i){if(!e(n))throw new TypeError(s("invalid argument. First argument must be an array-like object. Value: `%s`.",n));if(!t(i))throw new TypeError(s("invalid argument. Second argument must be a nonnegative integer. Value: `%s`.",i));return r(n,i)}export{n as default};
-//# sourceMappingURL=index.mjs.map
