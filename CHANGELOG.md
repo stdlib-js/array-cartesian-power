@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-01-09)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`676581b`](https://github.com/stdlib-js/stdlib/commit/676581b4f1f4ffbece1ae5234a2e6ef1e8fca9f1) - **bench:** refactor to use string interpolation in `array/cartesian-power` [(#9653)](https://github.com/stdlib-js/stdlib/pull/9653) _(by Diyan)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Diyan
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.2">
 
 ## 0.1.2 (2024-07-29)
